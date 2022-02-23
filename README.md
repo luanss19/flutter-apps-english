@@ -80,7 +80,7 @@
     <a href="https://github.com/luanss19/lista_de_tarefas">To-do list</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/luanss19/lista_de_tarefas/blob/master/assets/demo/demo.gif" width="300px" alt="Contador de Pessoas">
+   <img src="https://github.com/luanss19/lista_de_tarefas/blob/master/assets/demo/demo.gif" width="300px" alt="To-do List">
   <br>
 
 <p>
